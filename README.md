@@ -17,9 +17,9 @@
 
    (Right click project) -> New -> Class ->
    
-   Package name : (e.g. package1),
+   Package name : package1,
    
-   class name : (e.g. class1),
+   class name : class1,
    
    (tick) public static void main
    
