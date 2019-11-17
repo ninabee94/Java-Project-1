@@ -4,8 +4,10 @@
 ---------------------------
 
    Open Eclipse -> New -> Java project ->
-   Project name : (e.g. Java-Project-1),
+   
+   Project name : Java-Project-1,
    Execution Environment : Java SE 1.8
+   
    -> Click Finish
 
 ------------------------------
