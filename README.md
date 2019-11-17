@@ -6,6 +6,7 @@
    Open Eclipse -> New -> Java project ->
    
    Project name : Java-Project-1,
+   
    Execution Environment : Java SE 1.8
    
    -> Click Finish
@@ -15,9 +16,13 @@
 ------------------------------
 
    (Right click project) -> New -> Class ->
+   
    Package name : (e.g. package1),
+   
    class name : (e.g. class1),
+   
    (tick) public static void main
+   
    -> Click Finish
 
 -------------
