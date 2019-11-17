@@ -10,6 +10,7 @@
    Execution Environment : Java SE 1.8
    
    -> Click Finish
+   
 
 ------------------------------
 2. Create New Package & Class
@@ -24,6 +25,7 @@
    (tick) public static void main
    
    -> Click Finish
+   
 
 -------------
 3. Edit Class
@@ -32,6 +34,7 @@
    open src/package1.class1.java -> inside public static void main :
 
    System.out.println(" My First Java");
+   
 
 -----------------------
 4. Run The Application
