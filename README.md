@@ -1,5 +1,7 @@
 # Java-Project-1
 
+Simple java application to print a message.
+
 <b>1. Create New Java Project</b>
 
      Open Eclipse -> New -> Java project ->
