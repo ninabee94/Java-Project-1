@@ -2,6 +2,8 @@
 
 Simple java application to print a message.
 
+![alt text](https://user-images.githubusercontent.com/57636419/69019952-d72a6380-09ed-11ea-9737-0ef5e6aa33e1.JPG)
+
 <b>1. Create New Java Project</b>
 
      Open Eclipse -> New -> Java project ->
